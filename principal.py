@@ -1,2 +1,6 @@
 print("hola mundo")
 print("teste")
+print("teste")
+print("teste")
+print("teste")
+print("teste")
